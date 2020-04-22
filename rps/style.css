@@ -1,12 +1,12 @@
 html{
-  margin: 2;
-  padding: 2;
+  margin: 2em;
+  padding: 2em;
 h1{
   font size: 15em;
   
 body {
-  margin: 2;
-  padding: 2;
+  margin: 2em;
+  padding: 2em;
 }
 canvas {
   display: block;
