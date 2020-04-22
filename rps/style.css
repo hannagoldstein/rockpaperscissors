@@ -1,4 +1,10 @@
-html, body {
+html{
+  margin: 2;
+  padding: 2;
+h1{
+  font size: 15em;
+  
+body {
   margin: 2;
   padding: 2;
 }
